@@ -1,1 +1,1 @@
-
+Statement: Due to a steady rise in the number of people experiencing depression or going through bad emotional experiences, the need for an inspirational advisor has increased significantly, as not all people have the luxury of going to a therapist, the lack of an online chatbot that has the capability of analyzing your feelings and giving you advice that would help you cheer your mood is in high demand. Hence the development of a therapy chatbot that ahs the ability to advise the user by analyzing the user's feelings and giving them the appropriate advice is really needed.
